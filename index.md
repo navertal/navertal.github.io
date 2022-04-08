@@ -2,7 +2,7 @@
 
 Lorem Ipsum
 
-<img src="images/profile.jpg?raw=true"/>
+[A second page](./second.md)
 
 ## Here are some ways to use markdown:
 
