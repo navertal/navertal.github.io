@@ -16,3 +16,8 @@ Lorem Ipsum
 [Example Link to Google](https://www.google.com)
 
 *Italic*, **Bold**, ***Bold Italic***
+
+''' python
+# insert a code block
+print("Hello, World!")
+'''
