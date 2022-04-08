@@ -17,7 +17,7 @@ Lorem Ipsum
 
 *Italic*, **Bold**, ***Bold Italic***
 
-''' python
+``` python
 # insert a code block
 print("Hello, World!")
-'''
+```
