@@ -4,9 +4,6 @@ Lorem Ipsum
 
 <img src="images/profile.jpg?raw=true"/>
 
-[My second page](./second.md)
-
-
 ## Here are some ways to use markdown:
 
 1. Ordered item number 1
